@@ -1,5 +1,5 @@
 function valfix() {
-    document.querySelector(".rw_search_query").pattern="[A-Za-z]{1,50}";
+    document.querySelector(".rw_search_query").pattern="[A-Za-z1-9]{1,50}";
 
 }
   
